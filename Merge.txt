@@ -1,1 +1,1 @@
-I am trying to create a merge conflict. 
+Here is some new stuff i am typing on branch_1 
