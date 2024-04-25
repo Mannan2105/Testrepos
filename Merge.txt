@@ -1,2 +1,3 @@
 I am trying to create a merge conflict. 
 now i can make whatever changes i want 
+making some more changes 
